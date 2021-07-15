@@ -1,1 +1,110 @@
-/* You can add global styles to this file, and also import other style files */
+    body{
+        background: #e7e9eb;
+        padding: 0;
+        margin: 0;
+
+    }
+    .card-text {
+        text-align: center;
+        font-weight: 500;
+        font-size: 18px;
+
+    }
+    .img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 1920px;
+    }
+
+.navbar{
+  padding: 0px !important;
+}
+
+    .py-10{
+        padding: 3% 0;
+    }
+    .actions {
+      background: #e7e9eb;
+      display: flex;
+  }
+
+  .action-css {
+    padding: 2% 11%;
+    text-align: center;
+    border-right: 1px solid #ccc;
+  }
+
+    .actions span:first-child {
+        border-left: none;
+
+    }
+    img.action-img {
+        width: 16px;
+        margin-right: 8px;
+    }
+
+    .pb-30{
+        padding-bottom: 30px;
+    }
+    .rounded-border {
+        border: 2px solid #ccc;
+        border-radius: 100px !important
+    }
+
+    .actions div:nth-of-type(3) {
+      border-right: none;
+     }
+
+    .profile-text{
+        font-weight: bold;
+        color: #696969;
+    }
+    h5{
+        margin: 0px;
+    }
+    .bg-light {
+    background-color: #fff!important;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 0px;
+    margin: 0px;
+}
+
+li.nav-item {
+    border-left: 1px solid #ccc;
+    height: 60px;
+    padding: 0px 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+a.nav-link {
+    padding: 18px 20px;
+}
+
+.col-md-6.profile-text-css {
+  padding: 0 5%;
+  text-align: left;
+}
+
+a.navbar-brand {
+    padding-left: 2%;
+}
+
+input.form-control {
+  padding: 17px;
+  background: #e7e9eb;
+  right: 0%;
+  position: absolute;
+  margin: 2px 0px;
+  width: 50%;
+  top: 0%;
+}
+.col-md-12.col-lg-12.col-xs.\31 2.col-sm-12.bg-image {
+    padding: 0px;
+}
+.profile-position{
+    position: relative;
+    left: 5%;
+}
